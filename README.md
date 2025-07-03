@@ -1,6 +1,6 @@
 ## 🌦️ Power BI Real-Time Weather & Air Quality Dashboard
 
-In this project, I developed an interactive Weather & Air Quality Dashboard using Power BI, providing real-time insights into environmental conditions for informed decision-making. The dashboard simulates a city-level weather monitoring system with clean, responsive visuals.
+In this project, I developed an interactive Weather & Air Quality Dashboard using Power BI, providing real-time insights using https://www.weatherapi.com/ API into environmental conditions for informed decision-making. The dashboard simulates a city-level weather monitoring system with clean, responsive visuals.
 
 ---
 
